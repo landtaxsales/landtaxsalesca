@@ -6,7 +6,7 @@
 "county": "Ottawa",
 "close": "2026-12-17",
 "contact": "Tax Collections Specialist · 613-580-3155 · tender package $64",
-"src": "https://ottawa.ca/en/property-tax-sales",
+"src": "https://ottawa.ca/en/living-ottawa/taxes/property-taxes/sale-properties-unpaid-taxes",
 "status": "open",
 "addr": "1256 Yorks Corners Rd, Gloucester",
 "lat": 45.22,
@@ -25,7 +25,7 @@
 "county": "Ottawa",
 "close": "2026-12-17",
 "contact": "Tax Collections Specialist · 613-580-3155 · tender package $64",
-"src": "https://ottawa.ca/en/property-tax-sales",
+"src": "https://ottawa.ca/en/living-ottawa/taxes/property-taxes/sale-properties-unpaid-taxes",
 "status": "open",
 "addr": "0 Leonard Ave, Ottawa",
 "lat": 45.392,
@@ -44,7 +44,7 @@
 "county": "Ottawa",
 "close": "2026-12-17",
 "contact": "Tax Collections Specialist · 613-580-3155 · tender package $64",
-"src": "https://ottawa.ca/en/property-tax-sales",
+"src": "https://ottawa.ca/en/living-ottawa/taxes/property-taxes/sale-properties-unpaid-taxes",
 "status": "open",
 "addr": "22 Maple Stand Way, Nepean",
 "lat": 45.262,
@@ -63,7 +63,7 @@
 "county": "Ottawa",
 "close": "2026-12-17",
 "contact": "Tax Collections Specialist · 613-580-3155 · tender package $64",
-"src": "https://ottawa.ca/en/property-tax-sales",
+"src": "https://ottawa.ca/en/living-ottawa/taxes/property-taxes/sale-properties-unpaid-taxes",
 "status": "open",
 "addr": "54 Picasso Dr, Ottawa",
 "lat": 45.465,
@@ -82,7 +82,7 @@
 "county": "Ottawa",
 "close": "2026-12-17",
 "contact": "Tax Collections Specialist · 613-580-3155 · tender package $64",
-"src": "https://ottawa.ca/en/property-tax-sales",
+"src": "https://ottawa.ca/en/living-ottawa/taxes/property-taxes/sale-properties-unpaid-taxes",
 "status": "open",
 "addr": "824 Eastvale Dr, Gloucester",
 "lat": 45.44,
@@ -575,7 +575,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-001",
 "addr": "6137 Vasey Rd, Elmvale",
 "lat": 44.62,
@@ -586,7 +586,9 @@
 "assessed": 279000,
 "min": 69546.74,
 "rural": true,
-"id": "tay-sety25-001"
+"id": "tay-sety25-001",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -594,7 +596,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-008",
 "addr": "2452 Newton St, Victoria Harbour",
 "lat": 44.746,
@@ -605,7 +607,9 @@
 "assessed": 64000,
 "min": 13171.21,
 "rural": true,
-"id": "tay-sety25-008"
+"id": "tay-sety25-008",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -613,7 +617,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-009",
 "addr": "2432 Newton St, Victoria Harbour",
 "lat": 44.743,
@@ -624,7 +628,9 @@
 "assessed": 512000,
 "min": 53447.39,
 "rural": true,
-"id": "tay-sety25-009"
+"id": "tay-sety25-009",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -632,7 +638,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-011",
 "addr": "2459 Newton St, Victoria Harbour",
 "lat": 44.741,
@@ -643,7 +649,9 @@
 "assessed": 1550000,
 "min": 151106.7,
 "rural": true,
-"id": "tay-sety25-011"
+"id": "tay-sety25-011",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -728,11 +736,11 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-026",
 "addr": "315 Talbot St, Port McNicoll (Island #73)",
-"lat": 44.76,
-"lon": -79.822,
+"lat": 44.749,
+"lon": -79.8,
 "roll": "43 53 050 001 99913 0000",
 "pin": "58484-0344",
 "legal": "Island #73 in Georgian Bay, Tay; PT Water Lot A, 51R20842",
@@ -740,7 +748,9 @@
 "min": 558643.01,
 "water": "Island and water lot in Georgian Bay",
 "rural": false,
-"id": "tay-sety25-026"
+"id": "tay-sety25-026",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -786,7 +796,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-032",
 "addr": "15128 Highway 12, Victoria Harbour",
 "lat": 44.735,
@@ -797,7 +807,9 @@
 "assessed": 157000,
 "min": 20047.13,
 "rural": false,
-"id": "tay-sety25-032"
+"id": "tay-sety25-032",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Tay",
@@ -805,7 +817,7 @@
 "close": "2026-11-25",
 "contact": "Rebecca Faithfull, Deputy Treasurer · 705-534-7248 x226",
 "src": "https://www.ontario.ca/document/ontario-gazette-volume-159-issue-44-october-31-2026/sale-land-tax-arrears-public-tender",
-"status": "open",
+"status": "cancelled",
 "file": "SETY25-034",
 "addr": "2505 Newton St, Victoria Harbour",
 "lat": 44.739,
@@ -816,7 +828,9 @@
 "assessed": 84000,
 "min": 13179.1,
 "rural": false,
-"id": "tay-sety25-034"
+"id": "tay-sety25-034",
+"cancelSrc": "https://tay.ca/media/fahp310b/2026-form-6-ad-tay-final-updated.pdf",
+"cancelNote": "Marked cancelled in the Township of Tay's updated sale notice (Nov 2026)."
 },
 {
 "muni": "Township of Plummer Additional",
